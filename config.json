@@ -1,0 +1,13 @@
+{
+  "token": "OTA0Njk0MTA5ODkyMTQxMTE3.YX_QDA.AuDslQLL0ScJy8Q21SEPz7SdwiM",
+  "prefix": "!",
+
+  "logs": "discord-logs",
+
+  "upwork": {
+    "key": "fdd846cdf67b917b733bbc2296ed4b97",
+    "secret": "eda976f6fce31c98"
+  },
+
+  "mongooseConnectionString": ""
+}
