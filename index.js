@@ -13,7 +13,9 @@ module.exports = client;
 // Global Variables
 client.commands = new Collection();
 client.slashCommands = new Collection();
+client.owner = "216260135771701248";
 client.config = require("./config.json");
+client.prefix = client.config.prefix;
 
 // Initializing the project
 require("./handler")(client);
