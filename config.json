@@ -4,9 +4,20 @@
 
   "logs": "discord-logs",
 
-  "upwork": {
-    "key": "fdd846cdf67b917b733bbc2296ed4b97",
-    "secret": "eda976f6fce31c98"
+  "emoji": {
+    "upvote": "<:upvote:906183451907084298>",
+    "downvote": "<:downvote:906183451911278642>",
+    "arrow": "<:whitearrow:906183451768664164>",
+    "music": [
+      {
+        "name": "note",
+        "emoji": "🎵"
+      },
+      { "name": "play", "emoji": "906183451806421062" },
+      { "name": "stop", "emoji": "906183451827372032" },
+      { "name": "error", "emoji": "906183451768656002" },
+      { "name": "search", "emoji": "🔎" }
+    ]
   },
 
   "mongooseConnectionString": ""
